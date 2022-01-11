@@ -2,7 +2,7 @@
   display: none;
 }
 
-.clickable {
+.clickable-fade, .clickable-slide {
 	cursor: pointer;
 	color: #0088cc;
 }
